@@ -1,0 +1,23 @@
+.banner {
+  background-image: url("https://templatekit.jegtheme.com/baller/wp-content/uploads/sites/100/2021/05/side-view-of-african-sporty-man-holding-basketball-ball-on-black.jpg"),
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  height: 780px;
+  width: 100%;
+  /* border: 1px solid red; */
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.title {
+  color: white;
+  font-weight: bold;
+  font-size: 59px;
+}
+.about-btn {
+  background-color: #ff0505;
+  outline: none;
+  border: none;
+  padding: 17px 34px;
+  color: white;
+}

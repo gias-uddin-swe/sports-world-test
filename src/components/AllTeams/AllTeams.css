@@ -1,0 +1,19 @@
+.all-teams {
+  padding: 50px;
+}
+.search-team {
+  padding: 30px;
+}
+.cart {
+  padding: 10px;
+  height: 405px;
+  border: 1px solid gray;
+  margin-top: 10px;
+
+  /* background-color: #000; */
+}
+.text-area {
+  text-align: center;
+  /* background-color: rgb(131, 124, 124); */
+ 
+}
